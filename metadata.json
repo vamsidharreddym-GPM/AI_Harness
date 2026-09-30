@@ -1,0 +1,8 @@
+{
+  "name": "AI PM Harness",
+  "description": "BYOK workspace for Product Managers to run research-to-PRD pipelines with full customer evidence chain traceability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
